@@ -1,0 +1,7 @@
+15th July 2025:
+--------------
+
+1. aws CLI basics
+2. AWS SDK vs CDK vs CloudFormation vs Terraform
+3. Infrastructure Life Management in CDK vs SDK
+4. BotoX [boto3] script: AWS SDK code for Python
